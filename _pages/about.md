@@ -22,7 +22,7 @@ Phase 2: Building a Full-Chain AI Programming Ecosystem Collaboration
 ------
 + Collaborate with front-end AI programming tools to establish an AI full-stack development protocol, enabling deep integration between BaaS and AI frontend programming tools. 
 + Release a hybrid cloud orchestration engine, integrating with public cloud databases to achieve cloud-native convergence, supporting one-click orchestration and deployment across platforms like Tencent Cloud, AWS, Azure, and GCP. 
-+ Launch an early partner program (100+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
++ Launch an early partner program (120+ enterprise integrations), building benchmark use cases in domains such as e-commerce, OTA, Web3, gaming, and social networking.
 
 Phase 3: Release of BaaS Pro Version
 ------
